@@ -1,0 +1,41 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    background-color: blueviolet;
+    border-radius: 8px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+
+h2{
+    color: white;
+    background-color: blue;
+    border-radius: 11px;
+    text-align: center;
+}
+.learn{
+    text-align: right;
+    color: blue;
+    font-size: 20px;
+}
+
+.course{
+    text-align: right;
+}
+
+h4{
+    background-color: chartreuse;
+}
+
+img{
+    border: 5px solid red;
+    border-radius: 10px;
+}
